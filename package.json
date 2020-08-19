@@ -1,11 +1,11 @@
 {
-  "name": "tempo",
-  "title": "Tempo",
+  "name": "hub42",
+  "title": "Hub 42",
   "version": "2.1.0",
-  "description": "Tempo - Bootstrap Website Template",
-  "author": "BootstrapMade.com",
-  "homepage": "https://bootstrapmade.com/tempo-free-onepage-bootstrap-theme/",
-  "license": "https://bootstrapmade.com/license/",
+  "description": "Hub 42 - Software e Marketing Digital",
+  "author": "hub42.com.br",
+  "homepage": "https://hub42.com.br",
+  "license": "",
   "main": "gulpfile.js",
   "scripts": {
     "start": "node_modules/.bin/gulp start",
