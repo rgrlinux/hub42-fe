@@ -13,10 +13,12 @@
     "dist": "node_modules/.bin/gulp"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "bootstrap": "^4.5.0",
     "boxicons": "^2.0.5",
     "isotope-layout": "^3.0.6",
     "jquery": "3.5.1",
+    "jquery-sticky": "^1.0.4",
     "jquery.easing": "^1.4.1",
     "owl.carousel": "^2.3.4",
     "remixicon": "^2.5.0",
